@@ -1,0 +1,423 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.hans
+{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+html body
+{
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: lightgray;
+}
+
+h1 h2 h3
+{
+    margin-bottom: 0px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.hansheader
+{
+    background: black;
+    overflow: auto;
+    font-weight: 1.7em;
+}
+ 
+.hansheader nav h1
+{
+    float: left;
+    padding: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.hansheader nav ul
+{
+    float: right;
+    list-style: none;
+}
+
+.hansheader nav ul li
+{
+    float: left;
+}
+
+.hansheader nav ul li a
+{
+    display: block;
+    padding: 20px;
+}
+
+.header nav ul li a:hover
+{
+    padding: 20px;
+}
+
+.hans01
+{
+    background: url(../Image01/img03.jpeg) center center / cover;
+    height: 700px;
+    text-align: center;
+}
+
+.hans02
+{
+    margin: auto;
+    max-width: 600px;
+    padding-top: 200px;
+    color: white;
+    display: block;
+}
+
+.hans02 h1
+{
+    font-size: 45px;
+}
+
+.hans02
+{
+    font-size: 15px;
+}
+
+.hans03
+{
+    padding: 100px 0px 100px 0px;
+    overflow: auto;
+    margin-left: 300px;
+    width: 1000px;
+    align-items: center;
+}
+
+h2
+{
+    padding-top: 5%;
+    
+}
+
+.hans04
+{
+    background-color: #fff;
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin: 15px;
+}
+
+.hans04 p
+{
+    margin-top: -2px;
+    margin-bottom: 3px;
+}
+
+.trait
+{
+    width: 70px;
+    border: none;
+    border-bottom: 1px solid #333;
+    margin-top: 10px;
+    margin-left: 89px;
+}
+
+.hans05
+{
+    width: 100%;
+    height: 500px;
+    background-color: black; 
+    margin-bottom: 2%;
+    display: flex;
+}
+
+.hans051
+{
+    width: 100%;
+    max-width: 100%;
+    padding: 100px 0px 100px 0px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.hans052
+{
+    width: 550px;
+    margin-left: 30px;
+    margin-bottom: 50px
+}
+
+.hans051 img
+{
+    width: 750px;
+    height: 500px;
+    display: flex;
+    float: left;
+}
+
+.hans052 h2
+{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 17px;
+}
+
+.hans052 p
+{
+    color: #fff;
+    line-height: 20px;
+    font-size: 15px;
+    margin-bottom: 40px; 
+}
+
+.color
+{
+    color: yellow;
+}
+
+h3
+{
+    margin-left: 15%;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.trait-fin
+{
+    width: 70%;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-top: -25px;
+    margin-left: 15%;
+    margin-bottom: 20px;
+}
+
+.hans06
+{
+    width: 100%;
+    height: 600px;
+    display: block;
+    margin-top: 1,5%;
+    margin-bottom: 15%;
+}
+
+.hans061
+{
+    width: 70%;
+    display: block;
+    align-items: center;
+    float: left;
+    padding: 20px 0px;
+    background: #fff;
+    margin-left: 15%;
+}
+.hans061 img
+{
+    display: block;
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-right: 80px;
+    margin-bottom: 17px;
+    border-radius: 50px;
+}
+
+.hans0611
+{
+    width: 70%;
+    display: block;
+    align-items: center;
+    float: left;
+    padding: 20px 0px;
+    background: #fff;
+    margin-left: 15%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.hans061 h5
+{
+    display: block;
+    float: right;
+    margin-top: 70px;
+    margin-right: -110px;
+    text-align: right;
+}
+
+.hans061 h6
+{
+    color: darkgray;
+    font-size: 13px;
+    display: block;
+    float: right;
+    margin-top: 90px;
+    margin-right: -35px;
+    text-align: right;
+}
+
+.hans0611 img
+{
+    display: block;
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 13px;
+    border-radius: 50px
+}
+
+.hans0611 h5
+{
+    display: block;
+    float: left;
+    margin-top: 70px;
+    margin-left: -70px;
+    text-align: left;
+}
+
+.hans0611 h6
+{
+    color: darkgray;
+    font-size: 13px;
+    display: block;
+    float: left;
+    margin-top: 90px;
+    margin-left: -93px;
+    text-align: left;
+}
+
+.hans06112 p
+{
+    font-size: 12px;
+    padding: 2px 0px;
+    margin-top: 10px;
+    margin-left: 18%;
+}
+
+.hans062 p
+{
+    font-size: 12px;
+    padding: 2px 0px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+ 
+.hans07
+{
+    background-color: black;
+    text-align: center;
+    padding: 35px;
+}
+
+.hans07 p
+{
+    color: #ffffff;
+}
+
+
+/* Media Queries pour les écrans de taille moyenne */
+@media (max-width:1280px)
+{
+    
+}
+
+@media (max-width: 768px) 
+{
+    .hans02 {
+        padding-top: 100px; 
+    }
+    .hans03 {
+        padding: 50px 0; 
+    }
+    .hans04 {
+        width: 100%; 
+    }
+    .hans051 img {
+        width: auto; 
+        height: 300px; 
+    }
+    .hans052 {
+        max-width: 100%; 
+    }
+    .hans052 h2 {
+        font-size: 25px;
+    }
+    .hans052 p {
+        font-size: 12px; 
+    }
+}
+
+
+
+@media (max-width: 468px) 
+{
+    .hans02 {
+        max-width: 100%;
+        padding-top: 100px;
+        text-align: center;
+    }
+
+    .hans03 {
+        margin-left: 0;
+        padding: 20px;
+        width: auto;
+        justify-content: center;
+    }
+
+    .hans04 {
+        width: 100%;
+        margin: 10px;
+    }
+
+    .hans04 img
+    {
+        width: 100%;
+    }
+
+    .hans  
+    
+    .hans051 
+    {
+        flex-direction: column;
+    }
+
+    .hans051 img
+    {
+        width: 80%;
+    }
+    .hans052 {
+        width: 100%;
+        margin: 0;
+    }
+
+    .hans06
+    {
+        margin-top: 10%;
+        margin-block: 10%;
+
+    }
+    .hans061 img {
+        float: none;
+        margin: 0 auto;
+    }
+    .hans061 h5 h6
+    {
+        margin-left: 70%;  
+        margin-top: -10%;
+    }
+    
+}
+
+
